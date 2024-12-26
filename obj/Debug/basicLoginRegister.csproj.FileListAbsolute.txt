@@ -1,0 +1,27 @@
+C:\Users\U. Saodatov\OneDrive\C# Codeacademy\basicLoginRegister\obj\Debug\basicLoginRegister.csproj.AssemblyReference.cache
+C:\Users\U. Saodatov\OneDrive\C# Codeacademy\basicLoginRegister\obj\Debug\basicLoginRegister.Access.resources
+C:\Users\U. Saodatov\OneDrive\C# Codeacademy\basicLoginRegister\obj\Debug\basicLoginRegister.Form2.resources
+C:\Users\U. Saodatov\OneDrive\C# Codeacademy\basicLoginRegister\obj\Debug\basicLoginRegister.Properties.Resources.resources
+C:\Users\U. Saodatov\OneDrive\C# Codeacademy\basicLoginRegister\obj\Debug\basicLoginRegister.Registration.resources
+C:\Users\U. Saodatov\OneDrive\C# Codeacademy\basicLoginRegister\obj\Debug\basicLoginRegister.csproj.GenerateResource.cache
+C:\Users\U. Saodatov\OneDrive\C# Codeacademy\basicLoginRegister\obj\Debug\basicLoginRegister.csproj.CoreCompileInputs.cache
+C:\Users\U. Saodatov\OneDrive\C# Codeacademy\basicLoginRegister\bin\Debug\basicLoginRegister.exe.config
+C:\Users\U. Saodatov\OneDrive\C# Codeacademy\basicLoginRegister\bin\Debug\basicLoginRegister.exe
+C:\Users\U. Saodatov\OneDrive\C# Codeacademy\basicLoginRegister\bin\Debug\basicLoginRegister.pdb
+C:\Users\U. Saodatov\OneDrive\C# Codeacademy\basicLoginRegister\obj\Debug\basicLoginRegister.exe
+C:\Users\U. Saodatov\OneDrive\C# Codeacademy\basicLoginRegister\obj\Debug\basicLoginRegister.pdb
+C:\Users\U. Saodatov\OneDrive\RCL\CTF 3201 - C# Fundamental of Praogramming\CTF 3201 - Assignment (C#)\Task-4\basicLoginRegister\bin\Debug\basicLoginRegister.exe.config
+C:\Users\U. Saodatov\OneDrive\RCL\CTF 3201 - C# Fundamental of Praogramming\CTF 3201 - Assignment (C#)\Task-4\basicLoginRegister\bin\Debug\basicLoginRegister.exe
+C:\Users\U. Saodatov\OneDrive\RCL\CTF 3201 - C# Fundamental of Praogramming\CTF 3201 - Assignment (C#)\Task-4\basicLoginRegister\bin\Debug\basicLoginRegister.pdb
+C:\Users\U. Saodatov\OneDrive\RCL\CTF 3201 - C# Fundamental of Praogramming\CTF 3201 - Assignment (C#)\Task-4\basicLoginRegister\obj\Debug\basicLoginRegister.csproj.AssemblyReference.cache
+C:\Users\U. Saodatov\OneDrive\RCL\CTF 3201 - C# Fundamental of Praogramming\CTF 3201 - Assignment (C#)\Task-4\basicLoginRegister\obj\Debug\basicLoginRegister.Access.resources
+C:\Users\U. Saodatov\OneDrive\RCL\CTF 3201 - C# Fundamental of Praogramming\CTF 3201 - Assignment (C#)\Task-4\basicLoginRegister\obj\Debug\basicLoginRegister.Form2.resources
+C:\Users\U. Saodatov\OneDrive\RCL\CTF 3201 - C# Fundamental of Praogramming\CTF 3201 - Assignment (C#)\Task-4\basicLoginRegister\obj\Debug\basicLoginRegister.Properties.Resources.resources
+C:\Users\U. Saodatov\OneDrive\RCL\CTF 3201 - C# Fundamental of Praogramming\CTF 3201 - Assignment (C#)\Task-4\basicLoginRegister\obj\Debug\basicLoginRegister.Registration.resources
+C:\Users\U. Saodatov\OneDrive\RCL\CTF 3201 - C# Fundamental of Praogramming\CTF 3201 - Assignment (C#)\Task-4\basicLoginRegister\obj\Debug\basicLoginRegister.csproj.GenerateResource.cache
+C:\Users\U. Saodatov\OneDrive\RCL\CTF 3201 - C# Fundamental of Praogramming\CTF 3201 - Assignment (C#)\Task-4\basicLoginRegister\obj\Debug\basicLoginRegister.csproj.CoreCompileInputs.cache
+C:\Users\U. Saodatov\OneDrive\RCL\CTF 3201 - C# Fundamental of Praogramming\CTF 3201 - Assignment (C#)\Task-4\basicLoginRegister\obj\Debug\basicLoginRegister.exe
+C:\Users\U. Saodatov\OneDrive\RCL\CTF 3201 - C# Fundamental of Praogramming\CTF 3201 - Assignment (C#)\Task-4\basicLoginRegister\obj\Debug\basicLoginRegister.pdb
+C:\Users\U. Saodatov\OneDrive\RCL\CTF 3201 - C# Fundamental of Praogramming\CTF 3201 - Assignment (C#)\Task-4\basicLoginRegister\obj\Debug\basicLoginRegister.Profile.resources
+C:\Users\U. Saodatov\OneDrive\RCL\CTF 3201 - C# Fundamental of Praogramming\CTF 3201 - Assignment (C#)\Task-4\basicLoginRegister\obj\Debug\basicLoginRegister.Form5.resources
+C:\Users\U. Saodatov\OneDrive\RCL\CTF 3201 - C# Fundamental of Praogramming\CTF 3201 - Assignment (C#)\Task-4\basicLoginRegister\obj\Debug\basicLoginRegister.ChangeProfileForm.resources
